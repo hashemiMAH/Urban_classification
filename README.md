@@ -5,7 +5,7 @@
   Another Python script has been developed to use NAIP Imageried for USA with spatial resolution 1 meter by 1 meter.
 
    Watch the YouTube video for more details about the work 
-   https://www.youtube.com/watch?v=M_XgFTJJI-U
+   https://www.youtube.com/watch?v=NeKcJjaoMzs
  
  To calculate water use, we developed a Python script in Colab, which can be found on Hydrosahre.
 
